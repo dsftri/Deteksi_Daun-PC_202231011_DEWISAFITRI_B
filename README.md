@@ -39,3 +39,39 @@ OpenCV memiliki banyak fitur yang berguna untuk pengolahan citra dan pengenalan 
 3. Pengenalan pola: OpenCV dapat mengenali pola dalam sebuah citra, seperti bentuk, warna, dan tekstur.  
 4. Pengolahan video: OpenCV dapat melakukan operasi pengolahan video seperti capture, playback, dan analisis.  
 5. Machine learning: OpenCV memiliki fitur machine learning yang dapat digunakan untuk klasifikasi, regresi, dan clustering.
+
+### Fungsi-fungsi OpenCV
+
+Berikut adalah beberapa fungsi OpenCV yang sering digunakan:
+
+1. cv2.imread(): Membaca citra dari file.  
+2. cv2.imshow(): Menampilkan citra.  
+3. cv2.cvtColor(): Mengkonversi format citra.  
+4. cv2.resize(): Mengubah ukuran citra.  
+5. cv2.threshold(): Mengaplikasikan thresholding pada citra.  
+6. cv2.inRange(): Mendeteksi piksel dalam rentang warna tertentu.  
+7. cv2.bitwise_and(): Melakukan operasi bitwise AND pada dua citra.
+
+## NumPy
+
+NumPy (Numerical Python) adalah sebuah library Python yang digunakan untuk mengolah data numerik dan array multidimensi. 
+NumPy memungkinkan kita untuk melakukan operasi matematika dan statistik pada data dengan cepat dan efisien.
+
+### Fitur NumPy
+NumPy memiliki beberapa fitur yang berguna, antara lain:
+
+1. Array multidimensi: NumPy memungkinkan kita untuk membuat array dengan jumlah dimensi yang tidak terbatas.  
+2. Operasi matematika: NumPy mendukung operasi matematika dasar seperti penjumlahan, pengurangan, perkalian, dan pembagian pada array.  
+3. Operasi statistik: NumPy memiliki fungsi untuk menghitung statistik seperti mean, median, mode, dan standar deviasi.  
+4. Manipulasi data: NumPy memungkinkan kita untuk melakukan operasi seperti sorting, filtering, dan grouping pada data.  
+
+### Fungsi-fungsi NumPy
+Berikut adalah beberapa fungsi NumPy yang sering digunakan:
+
+1. numpy.array(): Membuat array dari data.  
+2. numpy.zeros(): Membuat array dengan nilai nol.  
+3. numpy.ones(): Membuat array dengan nilai satu.  
+4. numpy.random.rand(): Membuat array dengan nilai acak.  
+5. numpy.mean(): Menghitung mean dari array.  
+6. numpy.median(): Menghitung median dari array.  
+7. numpy.std(): Menghitung standar deviasi dari array.
