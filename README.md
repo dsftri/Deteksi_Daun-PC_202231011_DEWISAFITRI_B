@@ -23,3 +23,19 @@ Beberapa teknik yang digunakan dalam deteksi daun adalah:
 3. **Shape analysis**: menggunakan analisis bentuk untuk mengidentifikasi daun.  
 4. **Texture analysis**: menggunakan analisis tekstur untuk mengidentifikasi daun.  
 5. **Machine learning**: menggunakan algoritma machine learning, seperti neural networks atau support vector machines, untuk mengklasifikasikan daun.
+
+
+## OpenCV
+
+OpenCV (Open Source Computer Vision Library) adalah sebuah perpustakaan komputer yang digunakan untuk pengolahan citra dan pengenalan pola. 
+Perpustakaan ini dikembangkan oleh Intel dan sekarang dikelola oleh perusahaan independen yang bernama Itseez.
+
+### Fitur OpenCV
+
+OpenCV memiliki banyak fitur yang berguna untuk pengolahan citra dan pengenalan pola, antara lain:
+
+1. Pengolahan citra: OpenCV dapat melakukan operasi pengolahan citra seperti konversi format, resize, crop, flip, dan lain-lain.  
+2. Deteksi wajah: OpenCV dapat mendeteksi wajah manusia dalam sebuah citra.  
+3. Pengenalan pola: OpenCV dapat mengenali pola dalam sebuah citra, seperti bentuk, warna, dan tekstur.  
+4. Pengolahan video: OpenCV dapat melakukan operasi pengolahan video seperti capture, playback, dan analisis.  
+5. Machine learning: OpenCV memiliki fitur machine learning yang dapat digunakan untuk klasifikasi, regresi, dan clustering.
